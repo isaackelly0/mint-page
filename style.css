@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+  display: block;
+  padding: 5px;
+}
+ul {
+  list-style: none;
+  display: inline-flex;
+}
+li {
+  /* padding: 10px; */
+}
+.grid {
+  display: inline-block;
+  text-align: center;
+}
+.sign-in {
+  text-align: center;
+}
+input {
+}
+#button {
+  margin-left: 38px;
+  margin-top: 30px;
+}
