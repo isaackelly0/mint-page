@@ -3,19 +3,22 @@
   <head>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="style.css" />
-    <title>Mint Page</title>
+    <title hidden>Mint Page</title>
   </head>
   <body>
-    <header>inuit</header>
+    <header>
+      <h1>inuit</h1>
+      <ul>
+        <li>mint</li>
+        <li>quickbooks</li>
+        <li>turbotax</li>
+      </ul>
+    </header>
+
     <section class="grid">
-      <header>Create an Inuit Account</header>
+      <h2>Create an Inuit Account</h2>
       <p>One account for everything</p>
-      <div class="sign in">
-        <ul>
-          <li>mint</li>
-          <li>quickbooks</li>
-          <li>turbotax</li>
-        </ul>
+      <div class="sign-in">
         <form class="sign in" action="index.html" method="submit">
           <label for="">Email Address</label>
           <input type="email" name="" value="" />
@@ -29,16 +32,23 @@
             value="Create Account"
             id="button"
           />
-          <p></p>
-          <p></p>
-          <p></p>
+          <p class="terms">
+            <i>
+              By clicking Create Account, you agree to our Terms and have read
+              and acknowledge our Privacy Statement.
+            </i>
+          </p>
         </form>
-        <footer><p></p></footer>
       </div>
     </section>
+    <footer class="policy">
+      <span>
+        Invisible reCAPTCHA by Google Privacy Policy and Terms of Use
+      </span>
+    </footer>
     <footer>
-      <p></p>
-      <p></p>
+      <p>Legal Notices here</p>
+      <p>Copyright claims here</p>
     </footer>
   </body>
 </html>
