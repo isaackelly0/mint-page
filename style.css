@@ -60,17 +60,12 @@ input {
   font-size: 12px;
 }
 .policy {
-  /* display: inline-grid; */
-
   font-size: 10px;
-  width: 300px;
-  /* text-align: center;
-  align-self: center;
-  justify-content: center; */
-  /* margin-left: 32%; */
+  width: 100;
+  align-items: center;
   border-style: solid;
   border-color: grey;
   border-width: thin;
   background-color: #d9d9d9;
-  padding: 4px 5px;
+  padding: 0px;
 }
