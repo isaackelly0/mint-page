@@ -1,1 +1,1 @@
-![Mint Page](Mint_page.png)
+![Mint Page](./image/Mint_page.png)
