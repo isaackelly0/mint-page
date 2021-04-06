@@ -1,3 +1,5 @@
 # Mint Page
 
-![Mint-Page](/image/Mint_page.png)
+Do I need to add text first?
+
+![MintPage](/image/Mint_page.png)
