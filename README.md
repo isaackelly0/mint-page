@@ -2,4 +2,4 @@
 
 Do I need to add text first?
 
-![MintPage](./Mint_page.png)
+![Mint Page](./Mint_page.png)
