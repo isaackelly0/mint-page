@@ -1,3 +1,3 @@
 # Mint Page
 
-![Mint_Page](/image/Mint_page.png)
+![Mint-Page](/image/Mint_page.png)
